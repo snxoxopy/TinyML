@@ -9,7 +9,7 @@
   <summary>1. Introduction</summary>
     - Embedded Devices
     - Changing Landscape
-<details>
+</details>
 
 <details>
   <summary>2. Getting Started</summary>
@@ -17,7 +17,7 @@
     - What Hardware Do You Need?
     - What Software Do You Need?
     - What Do We Hope You’ll Learn?
-<details>
+</details>
 
 
 <details>
